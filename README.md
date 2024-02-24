@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, this is Hagverdi Ibrahimli</h1>
-<h3 align="center">Computer Science & Engineering Student at Sabanci University</h3>
+<h3 align="center">Senior Computer Science & Engineering Student at Sabanci University</h3>
 
 
 - 🔭 I’m currently working on [Smart Campus - Visual Analytics Project](https://github.com/r0binn/smart_campus)
