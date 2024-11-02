@@ -1,16 +1,12 @@
 <h1 align="center">Hey👋, this is Hagverdi Ibrahimli</h1>
-<h3 align="center">Senior Computer Science & Engineering Student at Sabanci University</h3>
+<h3 align="center">Computer Science Master's student at the University of Freiburg (with specialization in AI)</h3>
 
 
-- 🔭 I’m currently working on [Smart Campus - Visual Analytics Project](https://github.com/r0binn/smart_campus)
-
-- 🌱 I’m currently learning **YOLO, Statistics, Algorithms and Computer Architectures**
+- 🔭 I’m currently working on deep learning, computer theory, and statistics.
 
 - 👨‍💻 You can find my projects at [https://github.com/ihagverdi?tab=repositories](https://github.com/ihagverdi?tab=repositories)
 
-- 📫 You can reach me at **hagverdiibrahimli12@gmail.com**
-
-- ⚡ Fun fact **From Baku to Sabanci, coding my way through Turkish delights!**
+- 📫 You can reach me at **ihagverdi@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
